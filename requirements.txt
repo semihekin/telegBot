@@ -1,4 +1,6 @@
 pyTelegramBotAPI
-pillow
 opencv-python
 numpy
+pillow
+requests
+pandas
