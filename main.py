@@ -368,6 +368,7 @@ def cevapla(message):
 
 
 # Botu başlat
+print("Bot çalışıyor...")
 bot.polling(none_stop=True)
 
 # Replit’te botun kapanmaması için
